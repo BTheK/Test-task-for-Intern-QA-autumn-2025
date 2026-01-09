@@ -25,3 +25,5 @@
 
 -v: вывод результатов по каждому тест-кейсу.
 -s: вывод принтов в консоль.
+
+Ссылка на задание: https://github.com/avito-tech/tech-internship/tree/main/Tech%20Internships/QA/QA-trainee-assignment-autumn-2025
